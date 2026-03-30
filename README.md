@@ -27,9 +27,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/pranjalbirla"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pranjalbirla" /></a></p><br><br>
-
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pranjalbirla" /></a></p><br><br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=birlaPranjal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=birlaPranjal&theme=tokyonight" />
