@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3 and some ML Algorithms**
 
-- 👨‍💻 All of my projects are available at [pranjalbirla.tech](pranjalbirla.tech)
+- 👨‍💻 All of my projects are available at [pranjalbirla.in](pranjalbirla.in)
 
 - 💬 Ask me about **MERN, Next.js**
 
